@@ -1,4 +1,4 @@
-# Georgetown Calendar Tutorial
+# DDL Calendar Tutorial
 
 [![Calendar*](docs/img/calendar.jpg)](https://flic.kr/p/9bUbH3)
 
@@ -8,7 +8,7 @@
 
 ## About
 
-This tutorial was built by the instructors of the Georgetown Data Science Certificate (CCPE) to teach the basics of building a command line Python application.
+This tutorial was originally built by the instructors of the Georgetown Data Science Certificate (CCPE) to teach the basics of building a command line Python application. It has been forked by DDL instructors with permission for the same reason, though it diverges a bit to align with the DDL incubator cirriculum. 
 
 ### Attribution
 
